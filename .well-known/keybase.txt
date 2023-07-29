@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fluffyvee
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fluffyveee.github.io
+  * I am fluffyvee (https://keybase.io/fluffyvee) on keybase.
+  * I have a public key ASBVJerTdjJ7MGdFa0O3vFSrMaguShwjNY4EHGOQmhhw5go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120268d641953a7033395fcc76aac52e62fe8dd0737ba89cc5b2fd03c65de9c2d1d0a",
+      "host": "keybase.io",
+      "kid": "01205525ead376327b3067456b43b7bc54ab31a82e4a1c23358e041c63909a1870e60a",
+      "uid": "79e284a61317470e1ee30bbeb9f1d119",
+      "username": "fluffyvee"
+    },
+    "merkle_root": {
+      "ctime": 1690635731,
+      "hash": "827bccd68b1d9ae5686a29c71af414e1b928b66681baa4545f79199154938da330dbae76261fccca5e3c453dcd94fd25fee0666ceb4bb096ad9ae656a5441429",
+      "hash_meta": "985722cc4a76b7f31fedbea5e91846bc52f925d09920e7a935bcb718c909e85c",
+      "seqno": 24745717
+    },
+    "service": {
+      "entropy": "YVvIMgPwa0TMlWTGn0jVGv1D",
+      "hostname": "fluffyveee.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.1"
+  },
+  "ctime": 1690635738,
+  "expire_in": 504576000,
+  "prev": "92331bcf9245071614f25946693e1a3d9dd449148a555a41850d6a3b71388f38",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVSXq03YyezBnRWtDt7xUqzGoLkocIzWOBBxjkJoYcOYKp3BheWxvYWTESpcCDMQgkjMbz5JFBxYU8llGaT4aPZ3USRSKVVpBhQ1qO3E4jzjEIILcMfYnnz3j2JFuojSx8k3U54cArMwwvaobSY6MG/FFAgHCo3NpZ8RAuVTfP0jYE4OrO6zq9/8CFVaM+lGi3aqbK2B6Eym06fjTkVN2sNwjLq1WBKPtrSHt6IPnvnmu5A5pl3HQWBk6BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO2MXAAaIQWOXY5KLsQoqHE9gVd6O28eVubezj+59SeHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fluffyvee
+
+==================================================================
